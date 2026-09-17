@@ -1,0 +1,40 @@
+name: GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=IMALIMRANS&theme=onedark&column=6&row=1&margin-w=8&no-frame=true'
+          path: github-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit GitHub Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-trophy.svg
+
+          git diff --cached --quiet || git commit -m "chore: update GitHub trophies"
+
+          git push
