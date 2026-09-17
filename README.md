@@ -138,13 +138,10 @@ I'm not a "master" of any single language — my real strength is **using AI as 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IMALIMRANS&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/main/github-trophy.svg" alt="GitHub trophies" />
 
 </div>
 
-> This card is a standalone widget — it does **not** depend on the workflow below, so it works even while the other cards are being set up.
-
----
 
 ## 📈 Contribution Activity
 
