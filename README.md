@@ -126,24 +126,23 @@ I'm not a "master" of any single language — my real strength is **using AI as 
 
 <!--
   NOTE for IM AL IMRAN S (not shown on the public profile):
-  github-metrics.svg, github-metrics-achievements.svg, and github-metrics-calendar.svg
-  only appear after you add the GitHub Action workflow described in
-  metrics-workflow.yml — see the chat for the 3-step setup. All three replace
-  the old github-readme-stats.vercel.app / github-profile-trophy.vercel.app /
-  github-readme-activity-graph.vercel.app widgets, which kept breaking because
-  they're free shared servers that constantly hit GitHub's API rate limit.
-  Until the workflow runs once, these three images will show as broken.
+  github-metrics.svg and github-metrics-calendar.svg come from the workflow in
+  metrics-workflow.yml. The achievements plugin was dropped (puppeteer-based,
+  kept failing in Actions and blocking the calendar step that ran after it).
+  Trophies now use a standalone widget instead — no workflow dependency.
 -->
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/main/github-metrics-achievements.svg" alt="GitHub achievements" />
+<img src="https://github-profile-trophy.vercel.app/?username=IMALIMRANS&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 
 </div>
+
+> This card is a standalone widget — it does **not** depend on the workflow below, so it works even while the other cards are being set up.
 
 ---
 
