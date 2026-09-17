@@ -111,27 +111,37 @@ I'm not a "master" of any single language — my real strength is **using AI as 
 <div align="center">
 
 <a href="https://github.com/IMALIMRANS">
-<img src="https://github-readme-stats.vercel.app/api?username=IMALIMRANS&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="175" alt="GitHub statistics" />
+<img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/main/github-metrics.svg" width="100%" alt="GitHub statistics and top languages" />
 </a>
+
+<br><br>
+
 <a href="https://github.com/IMALIMRANS">
 <img src="https://streak-stats.demolab.com/?user=IMALIMRANS&theme=github-dark-blue&hide_border=true" height="175" alt="GitHub streak" />
 </a>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMALIMRANS&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" alt="Top languages" />
-
 </div>
 
-> 🛠️ **Fixed:** the streak widget was pointed at a Heroku URL — Heroku shut down its free hosting in Nov 2022, so that image was dead. It now uses the actively-maintained `streak-stats.demolab.com` mirror. If any badge below still looks blank, it's almost always the third-party server being briefly rate-limited — reloading the page fixes it.
+> ✨ Stats & top languages are generated fresh inside this repo every day — no shared third-party server, no rate-limit breakage.
+
+<!--
+  NOTE for IM AL IMRAN S (not shown on the public profile):
+  github-metrics.svg, github-metrics-achievements.svg, and github-metrics-calendar.svg
+  only appear after you add the GitHub Action workflow described in
+  metrics-workflow.yml — see the chat for the 3-step setup. All three replace
+  the old github-readme-stats.vercel.app / github-profile-trophy.vercel.app /
+  github-readme-activity-graph.vercel.app widgets, which kept breaking because
+  they're free shared servers that constantly hit GitHub's API rate limit.
+  Until the workflow runs once, these three images will show as broken.
+-->
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IMALIMRANS&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/main/github-metrics-achievements.svg" alt="GitHub achievements" />
 
 </div>
 
@@ -141,15 +151,9 @@ I'm not a "master" of any single language — my real strength is **using AI as 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IMALIMRANS&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/main/github-metrics-calendar.svg" width="100%" alt="GitHub contribution calendar" />
 
 </div>
-
-<!--
-Optional next step: an animated "contribution snake" can be added here
-once the platane/snk GitHub Action is enabled on your profile repo:
-<img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
--->
 
 ---
 
