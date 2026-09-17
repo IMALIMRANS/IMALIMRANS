@@ -1,12 +1,12 @@
-<!-- 
+<!--
   Keywords: IM AL IMRAN S, Bangladesh Developer, Web Creator, Android App Developer,
-  Telegram Bot Builder, Termux Tool Creator, Python Developer, AI-Assisted Development,
-  Dark Alarm App, Frontend Developer Bangladesh
+  Telegram Bot Builder, Termux Tool Creator, AI-Assisted Development, Dark Alarm App,
+  Imagic Pro, Free Image Editing App, Facebook TikTok Caption Templates
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,100:58A6FF&height=200&section=header&text=IM%20AL%20IMRAN%20S&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Web%20%7C%20Android%20%7C%20Telegram%20%7C%20Termux%20%7C%20AI-Assisted%20Creator&descAlignY=58&descSize=18" alt="Animated header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,50:6E3ACF,100:58A6FF&height=210&section=header&text=IM%20AL%20IMRAN%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20%7C%20Android%20%7C%20Telegram%20%7C%20Termux%20%7C%20AI-Assisted%20Creator&descAlignY=56&descSize=17" alt="Animated header banner" width="100%"/>
 
 ### `$ whoami`
 
@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/@IMALIMRANS"><img src="https://img.shields.io/badge/YouTube-@IMALIMRANS-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web+Creator+%7C+Android+App+Creator;Telegram+Bot+Builder+%7C+Termux+Tool+Creator;Python+Tool+Builder+%7C+AI-Assisted+Creator;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve+%F0%9F%9A%80" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Web+Creator+%7C+Android+App+Creator;Telegram+Bot+Builder+%7C+Termux+Tool+Creator;AI-Assisted+Developer+%7C+Idea-to-Product+Builder;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve+%F0%9F%9A%80" alt="Animated typing introduction" />
 
 <br>
 
@@ -36,8 +36,8 @@
 | 👨‍💻 **Name** | IM AL IMRAN S |
 | 🇧🇩 **Location** | Bangladesh |
 | 🧩 **Role** | Developer & Technology Enthusiast |
-| 🛠️ **Focus** | Web • Android • Telegram • Termux • Python |
-| 🟢 **Currently** | Learning new tech, building practical projects, exploring AI-assisted development |
+| 🛠️ **Focus** | Web • Android • Telegram • Termux • AI-Assisted Development |
+| 🟢 **Currently** | Building **Imagic Pro** — a free, template-based image editing app |
 | 📫 **Reach me** | [imalimrans.pages.dev/contact](https://imalimrans.pages.dev/contact/) |
 
 </div>
@@ -48,9 +48,9 @@
 
 **Assalamu Alaikum!** I'm **IM AL IMRAN S**, a developer and technology enthusiast from **Bangladesh**.
 
-I believe **every new thing I see is an opportunity to learn**. I explore web development, Android apps, Telegram bots, Termux tools, Python, and modern AI-assisted workflows — turning raw ideas into **simple, useful, and practical projects**.
+I believe **every new thing I see is an opportunity to learn**. I explore web development, Android apps, Telegram bots, Termux tools, and modern AI-assisted workflows — turning raw ideas into **simple, useful, and practical projects**.
 
-AI is one of the tools I use to learn faster, solve difficult problems, experiment with ideas, and turn concepts into working products, not a replacement for understanding the fundamentals.
+I'm not a "master" of any single language — my real strength is **using AI as a build partner**: I know enough PHP, Python, Bash, HTML, CSS, JavaScript, SQL, Java, Kotlin, and XML to direct a project, and I lean on AI tools to write, debug, and polish the rest. That's how ideas turn into shipped products, fast.
 
 > 💡 **I don't just want to use technology — I want to understand it, build with it, and share what I learn.**
 
@@ -64,37 +64,45 @@ AI is one of the tools I use to learn faster, solve difficult problems, experime
 <img src="https://img.shields.io/badge/🤖-Telegram%20Bot%20Builder-0b0f17?style=for-the-badge&labelColor=58A6FF" />
 <br>
 <img src="https://img.shields.io/badge/📟-Termux%20Tool%20Creator-0b0f17?style=for-the-badge&labelColor=58A6FF" />
-<img src="https://img.shields.io/badge/🐍-Python%20Tool%20Builder-0b0f17?style=for-the-badge&labelColor=58A6FF" />
+<img src="https://img.shields.io/badge/🎨-Template%20%26%20UI%20Designer-0b0f17?style=for-the-badge&labelColor=58A6FF" />
 <img src="https://img.shields.io/badge/🧠-AI--Assisted%20Creator-0b0f17?style=for-the-badge&labelColor=58A6FF" />
 <br>
-<img src="https://img.shields.io/badge/🎨-Website%20Designer-0b0f17?style=for-the-badge&labelColor=58A6FF" />
 <img src="https://img.shields.io/badge/🎬-Content%20Creator-0b0f17?style=for-the-badge&labelColor=58A6FF" />
+<img src="https://img.shields.io/badge/🖼️-Image%20Editing%20App%20Builder-0b0f17?style=for-the-badge&labelColor=58A6FF" />
 </p>
 
 > Badges wrap automatically on small screens, so this section stays readable on mobile.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧪 Languages & Tools I Work With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,androidstudio,linux,figma&theme=dark" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,bash,mysql,java,kotlin,git,github,vscode,androidstudio,linux,figma&theme=dark" alt="Technology stack" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🧠%20Built%20mostly%20with-AI--Assisted%20Development-58A6FF?style=for-the-badge" />
 
 </div>
+
+> I use these languages regularly in real projects, but I lean heavily on AI tools to write, debug, and refine the code — that's my actual workflow, and I'm not shy about it. 😄
 
 ---
 
@@ -103,10 +111,10 @@ AI is one of the tools I use to learn faster, solve difficult problems, experime
 <div align="center">
 
 <a href="https://github.com/IMALIMRANS">
-<img src="https://github-readme-stats.vercel.app/api?username=IMALIMRANS&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=IMALIMRANS&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="175" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/IMALIMRANS">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IMALIMRANS&theme=github-dark-blue&hide_border=true" height="175" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=IMALIMRANS&theme=github-dark-blue&hide_border=true" height="175" alt="GitHub streak" />
 </a>
 
 <br>
@@ -115,13 +123,15 @@ AI is one of the tools I use to learn faster, solve difficult problems, experime
 
 </div>
 
+> 🛠️ **Fixed:** the streak widget was pointed at a Heroku URL — Heroku shut down its free hosting in Nov 2022, so that image was dead. It now uses the actively-maintained `streak-stats.demolab.com` mirror. If any badge below still looks blank, it's almost always the third-party server being briefly rate-limited — reloading the page fixes it.
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IMALIMRANS&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=IMALIMRANS&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -131,19 +141,55 @@ AI is one of the tools I use to learn faster, solve difficult problems, experime
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IMALIMRANS&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area=true&area_color=1F6FEB&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IMALIMRANS&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 <!--
-Optional: an animated "contribution snake" can be added here once the
-platane/snk GitHub Action is enabled on your profile repo:
+Optional next step: an animated "contribution snake" can be added here
+once the platane/snk GitHub Action is enabled on your profile repo:
 <img src="https://raw.githubusercontent.com/IMALIMRANS/IMALIMRANS/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 -->
 
 ---
 
-## 🔥 Featured Project
+## 📱 Imagic Pro — Free Image Editing App
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/💯%20100%25%20Free-No%20Hidden%20Cost-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-58A6FF?style=flat-square" />
+
+**A completely free, template-based image editing app** — built for creators who want a professional-looking edit in seconds, no design skills required.
+
+</div>
+
+**Highlights:**
+- 🎨 Huge template library — pick a template, drop in your photo, done
+- 📱 **Facebook & TikTok caption templates** — a dedicated collection made especially for caption lovers
+- ⚡ Fast, beginner-friendly editing flow — no complex tools to learn
+- 🔄 New templates added regularly, sourced from official Imagic Pro content
+
+> Every image posted on Imagic Pro's official TikTok, Facebook, and YouTube is also made available as a ready-to-use template inside the app.
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/🌐%20Website-Coming%20Soon-58A6FF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/⬇️%20Download-Coming%20Soon-00C896?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/@imagicpro"><img src="https://img.shields.io/badge/YouTube-@imagicpro-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.facebook.com/imagicpro"><img src="https://img.shields.io/badge/Facebook-@imagicpro-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@imagicpro"><img src="https://img.shields.io/badge/TikTok-@imagicpro-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.instagram.com/imagicpro"><img src="https://img.shields.io/badge/Instagram-@imagicpro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+> ⚠️ **Need from you:** the actual website link and download link (Play Store / App Store / APK) so I can swap out the "Coming Soon" badges above — send them and I'll wire them in. The social badges are built from the `@imagicpro` handle you gave me; double-check each link is live before publishing.
+
+---
+
+## 🔥 Other Featured Project
 
 <div align="center">
 
@@ -172,6 +218,12 @@ A smart Android alarm application designed to help users **wake up on time** wit
 ## 🧩 Project Highlights
 
 <details open>
+<summary><b>🖼️ Imagic Pro</b> — Android App</summary>
+<br>
+Free, template-based image editing app with dedicated Facebook & TikTok caption templates.
+</details>
+
+<details>
 <summary><b>⏰ Dark Alarm</b> — Android App</summary>
 <br>
 Smart alarm with customizable wake-up challenges, built for a distraction-free morning routine.
@@ -238,7 +290,13 @@ A developer and technology enthusiast from Bangladesh who builds practical proje
 <details>
 <summary><b>What technologies does he work with?</b></summary>
 <br>
-HTML, CSS, JavaScript, Python, Java, Git/GitHub, Android Studio, and Telegram's Bot API, along with Termux for mobile-based development.
+HTML, CSS, JavaScript, PHP, Python, Bash, SQL, Java, Kotlin, and XML — with AI tools doing much of the heavy lifting on the code itself, since his real strength is directing projects, not memorizing syntax.
+</details>
+
+<details>
+<summary><b>What is Imagic Pro?</b></summary>
+<br>
+A completely free, template-based image editing app. Pick a template — including dedicated Facebook and TikTok caption templates — drop in a photo, and get a polished edit in seconds. No design skills needed.
 </details>
 
 <details>
@@ -313,6 +371,6 @@ Reach out via the <a href="https://imalimrans.pages.dev/contact/">contact page</
 
 **© 2026 IM AL IMRAN S • Built with curiosity, code & AI**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,100:58A6FF&height=100&section=footer" alt="Footer banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,50:6E3ACF,100:58A6FF&height=110&section=footer" alt="Footer banner" width="100%"/>
 
 </div>
